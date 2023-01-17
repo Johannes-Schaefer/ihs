@@ -170,4 +170,3 @@ if __name__ == '__main__':
     count_idts_overall(ihs_ds_path)
     count_top_idts(ihs_ds_path)
     analyze_idt_per_label(ihs_ds_path)
-
