@@ -1,0 +1,224 @@
+12/01/2023 09:59:18: Starting run with config: dropout=0.01, num_epochs=3, learning_rate=0.1
+12/01/2023 09:59:28: Test Loss:  2.17208 | Test acc:  0.560 | Test macro_f1:  0.270 | Test f1 scores of classes: [' 0.734', ' 0.077', ' 0.000']
+12/01/2023 09:59:30: Starting run with config: dropout=0.01, num_epochs=3, learning_rate=0.05
+12/01/2023 09:59:41: Test Loss:  1.10967 | Test acc:  0.224 | Test macro_f1:  0.125 | Test f1 scores of classes: [' 0.012', ' 0.000', ' 0.362']
+12/01/2023 09:59:43: Starting run with config: dropout=0.01, num_epochs=3, learning_rate=0.01
+12/01/2023 09:59:53: Test Loss:  1.15810 | Test acc:  0.325 | Test macro_f1:  0.326 | Test f1 scores of classes: [' 0.342', ' 0.290', ' 0.345']
+12/01/2023 09:59:55: Starting run with config: dropout=0.01, num_epochs=3, learning_rate=0.005
+12/01/2023 10:00:05: Test Loss:  1.07719 | Test acc:  0.379 | Test macro_f1:  0.355 | Test f1 scores of classes: [' 0.465', ' 0.320', ' 0.278']
+12/01/2023 10:00:08: Starting run with config: dropout=0.01, num_epochs=3, learning_rate=0.001
+12/01/2023 10:00:18: Test Loss:  1.05211 | Test acc:  0.560 | Test macro_f1:  0.444 | Test f1 scores of classes: [' 0.705', ' 0.382', ' 0.245']
+12/01/2023 10:00:20: Starting run with config: dropout=0.01, num_epochs=3, learning_rate=0.0005
+12/01/2023 10:00:30: Test Loss:  1.06839 | Test acc:  0.422 | Test macro_f1:  0.403 | Test f1 scores of classes: [' 0.512', ' 0.315', ' 0.383']
+12/01/2023 10:00:32: Starting run with config: dropout=0.01, num_epochs=3, learning_rate=0.0001
+12/01/2023 10:00:43: Test Loss:  1.06000 | Test acc:  0.502 | Test macro_f1:  0.449 | Test f1 scores of classes: [' 0.623', ' 0.324', ' 0.400']
+12/01/2023 10:00:45: Starting run with config: dropout=0.01, num_epochs=5, learning_rate=0.1
+12/01/2023 10:01:02: Test Loss:  1.12169 | Test acc:  0.224 | Test macro_f1:  0.127 | Test f1 scores of classes: [' 0.023', ' 0.000', ' 0.358']
+12/01/2023 10:01:04: Starting run with config: dropout=0.01, num_epochs=5, learning_rate=0.05
+12/01/2023 10:01:21: Test Loss:  1.12167 | Test acc:  0.588 | Test macro_f1:  0.257 | Test f1 scores of classes: [' 0.743', ' 0.000', ' 0.028']
+12/01/2023 10:01:23: Starting run with config: dropout=0.01, num_epochs=5, learning_rate=0.01
+12/01/2023 10:01:40: Test Loss:  1.11859 | Test acc:  0.531 | Test macro_f1:  0.347 | Test f1 scores of classes: [' 0.681', ' 0.037', ' 0.324']
+12/01/2023 10:01:42: Starting run with config: dropout=0.01, num_epochs=5, learning_rate=0.005
+12/01/2023 10:01:59: Test Loss:  1.07688 | Test acc:  0.484 | Test macro_f1:  0.446 | Test f1 scores of classes: [' 0.599', ' 0.344', ' 0.395']
+12/01/2023 10:02:01: Starting run with config: dropout=0.01, num_epochs=5, learning_rate=0.001
+12/01/2023 10:02:18: Test Loss:  1.03412 | Test acc:  0.520 | Test macro_f1:  0.469 | Test f1 scores of classes: [' 0.639', ' 0.340', ' 0.429']
+12/01/2023 10:02:19: Starting run with config: dropout=0.01, num_epochs=5, learning_rate=0.0005
+12/01/2023 10:02:36: Test Loss:  1.04463 | Test acc:  0.578 | Test macro_f1:  0.489 | Test f1 scores of classes: [' 0.724', ' 0.387', ' 0.355']
+12/01/2023 10:02:38: Starting run with config: dropout=0.01, num_epochs=5, learning_rate=0.0001
+12/01/2023 10:02:55: Test Loss:  1.05037 | Test acc:  0.563 | Test macro_f1:  0.473 | Test f1 scores of classes: [' 0.706', ' 0.329', ' 0.385']
+12/01/2023 10:02:57: Starting run with config: dropout=0.01, num_epochs=7, learning_rate=0.1
+12/01/2023 10:03:21: Test Loss:  1.10954 | Test acc:  0.614 | Test macro_f1:  0.254 | Test f1 scores of classes: [' 0.761', ' 0.000', ' 0.000']
+12/01/2023 10:03:23: Starting run with config: dropout=0.01, num_epochs=7, learning_rate=0.05
+12/01/2023 10:03:46: Test Loss:  1.10962 | Test acc:  0.614 | Test macro_f1:  0.254 | Test f1 scores of classes: [' 0.761', ' 0.000', ' 0.000']
+12/01/2023 10:03:48: Starting run with config: dropout=0.01, num_epochs=7, learning_rate=0.01
+12/01/2023 10:04:12: Test Loss:  1.12772 | Test acc:  0.249 | Test macro_f1:  0.256 | Test f1 scores of classes: [' 0.174', ' 0.276', ' 0.318']
+12/01/2023 10:04:14: Starting run with config: dropout=0.01, num_epochs=7, learning_rate=0.005
+12/01/2023 10:04:37: Test Loss:  1.08061 | Test acc:  0.516 | Test macro_f1:  0.469 | Test f1 scores of classes: [' 0.641', ' 0.353', ' 0.412']
+12/01/2023 10:04:39: Starting run with config: dropout=0.01, num_epochs=7, learning_rate=0.001
+12/01/2023 10:05:02: Test Loss:  1.06264 | Test acc:  0.531 | Test macro_f1:  0.466 | Test f1 scores of classes: [' 0.669', ' 0.328', ' 0.400']
+12/01/2023 10:05:04: Starting run with config: dropout=0.01, num_epochs=7, learning_rate=0.0005
+12/01/2023 10:05:28: Test Loss:  1.00453 | Test acc:  0.495 | Test macro_f1:  0.441 | Test f1 scores of classes: [' 0.634', ' 0.331', ' 0.357']
+12/01/2023 10:05:30: Starting run with config: dropout=0.01, num_epochs=7, learning_rate=0.0001
+12/01/2023 10:05:53: Test Loss:  1.02625 | Test acc:  0.552 | Test macro_f1:  0.473 | Test f1 scores of classes: [' 0.692', ' 0.377', ' 0.351']
+12/01/2023 10:05:55: Starting run with config: dropout=0.01, num_epochs=10, learning_rate=0.1
+12/01/2023 10:06:28: Test Loss:  1.11106 | Test acc:  0.227 | Test macro_f1:  0.126 | Test f1 scores of classes: [' 0.012', ' 0.000', ' 0.367']
+12/01/2023 10:06:30: Starting run with config: dropout=0.01, num_epochs=10, learning_rate=0.05
+12/01/2023 10:07:03: Test Loss:  1.10940 | Test acc:  0.614 | Test macro_f1:  0.254 | Test f1 scores of classes: [' 0.761', ' 0.000', ' 0.000']
+12/01/2023 10:07:05: Starting run with config: dropout=0.01, num_epochs=10, learning_rate=0.01
+12/01/2023 10:07:38: Test Loss:  1.16665 | Test acc:  0.365 | Test macro_f1:  0.353 | Test f1 scores of classes: [' 0.410', ' 0.277', ' 0.372']
+12/01/2023 10:07:40: Starting run with config: dropout=0.01, num_epochs=10, learning_rate=0.005
+12/01/2023 10:08:13: Test Loss:  1.04731 | Test acc:  0.419 | Test macro_f1:  0.406 | Test f1 scores of classes: [' 0.486', ' 0.362', ' 0.370']
+12/01/2023 10:08:15: Starting run with config: dropout=0.01, num_epochs=10, learning_rate=0.001
+12/01/2023 10:08:48: Test Loss:  1.01975 | Test acc:  0.556 | Test macro_f1:  0.501 | Test f1 scores of classes: [' 0.682', ' 0.410', ' 0.412']
+12/01/2023 10:08:50: Starting run with config: dropout=0.01, num_epochs=10, learning_rate=0.0005
+12/01/2023 10:09:23: Test Loss:  1.04444 | Test acc:  0.545 | Test macro_f1:  0.466 | Test f1 scores of classes: [' 0.683', ' 0.354', ' 0.361']
+12/01/2023 10:09:25: Starting run with config: dropout=0.01, num_epochs=10, learning_rate=0.0001
+12/01/2023 10:09:57: Test Loss:  1.01131 | Test acc:  0.588 | Test macro_f1:  0.504 | Test f1 scores of classes: [' 0.731', ' 0.362', ' 0.419']
+12/01/2023 10:09:59: Starting run with config: dropout=0.1, num_epochs=3, learning_rate=0.1
+12/01/2023 10:10:09: Test Loss:  3.72116 | Test acc:  0.195 | Test macro_f1:  0.171 | Test f1 scores of classes: [' 0.000', ' 0.193', ' 0.319']
+12/01/2023 10:10:11: Starting run with config: dropout=0.1, num_epochs=3, learning_rate=0.05
+12/01/2023 10:10:21: Test Loss:  1.11086 | Test acc:  0.614 | Test macro_f1:  0.254 | Test f1 scores of classes: [' 0.761', ' 0.000', ' 0.000']
+12/01/2023 10:10:23: Starting run with config: dropout=0.1, num_epochs=3, learning_rate=0.01
+12/01/2023 10:10:33: Test Loss:  1.08696 | Test acc:  0.235 | Test macro_f1:  0.231 | Test f1 scores of classes: [' 0.086', ' 0.274', ' 0.332']
+12/01/2023 10:10:35: Starting run with config: dropout=0.1, num_epochs=3, learning_rate=0.005
+12/01/2023 10:10:45: Test Loss:  1.09187 | Test acc:  0.368 | Test macro_f1:  0.364 | Test f1 scores of classes: [' 0.358', ' 0.342', ' 0.391']
+12/01/2023 10:10:47: Starting run with config: dropout=0.1, num_epochs=3, learning_rate=0.001
+12/01/2023 10:10:58: Test Loss:  1.03210 | Test acc:  0.563 | Test macro_f1:  0.467 | Test f1 scores of classes: [' 0.709', ' 0.314', ' 0.377']
+12/01/2023 10:11:00: Starting run with config: dropout=0.1, num_epochs=3, learning_rate=0.0005
+12/01/2023 10:11:10: Test Loss:  1.07747 | Test acc:  0.549 | Test macro_f1:  0.445 | Test f1 scores of classes: [' 0.692', ' 0.353', ' 0.289']
+12/01/2023 10:11:12: Starting run with config: dropout=0.1, num_epochs=3, learning_rate=0.0001
+12/01/2023 10:11:22: Test Loss:  1.05086 | Test acc:  0.498 | Test macro_f1:  0.451 | Test f1 scores of classes: [' 0.625', ' 0.300', ' 0.428']
+12/01/2023 10:11:24: Starting run with config: dropout=0.1, num_epochs=5, learning_rate=0.1
+12/01/2023 10:11:41: Test Loss:  1.10782 | Test acc:  0.614 | Test macro_f1:  0.254 | Test f1 scores of classes: [' 0.761', ' 0.000', ' 0.000']
+12/01/2023 10:11:43: Starting run with config: dropout=0.1, num_epochs=5, learning_rate=0.05
+12/01/2023 10:12:00: Test Loss:  1.37938 | Test acc:  0.242 | Test macro_f1:  0.195 | Test f1 scores of classes: [' 0.000', ' 0.211', ' 0.373']
+12/01/2023 10:12:02: Starting run with config: dropout=0.1, num_epochs=5, learning_rate=0.01
+12/01/2023 10:12:19: Test Loss:  1.07861 | Test acc:  0.502 | Test macro_f1:  0.365 | Test f1 scores of classes: [' 0.659', ' 0.351', ' 0.087']
+12/01/2023 10:12:21: Starting run with config: dropout=0.1, num_epochs=5, learning_rate=0.005
+12/01/2023 10:12:38: Test Loss:  1.02622 | Test acc:  0.552 | Test macro_f1:  0.489 | Test f1 scores of classes: [' 0.689', ' 0.387', ' 0.391']
+12/01/2023 10:12:40: Starting run with config: dropout=0.1, num_epochs=5, learning_rate=0.001
+12/01/2023 10:12:57: Test Loss:  1.08480 | Test acc:  0.560 | Test macro_f1:  0.420 | Test f1 scores of classes: [' 0.712', ' 0.411', ' 0.137']
+12/01/2023 10:12:59: Starting run with config: dropout=0.1, num_epochs=5, learning_rate=0.0005
+12/01/2023 10:13:16: Test Loss:  1.08031 | Test acc:  0.531 | Test macro_f1:  0.401 | Test f1 scores of classes: [' 0.696', ' 0.298', ' 0.211']
+12/01/2023 10:13:18: Starting run with config: dropout=0.1, num_epochs=5, learning_rate=0.0001
+12/01/2023 10:13:35: Test Loss:  1.04062 | Test acc:  0.545 | Test macro_f1:  0.443 | Test f1 scores of classes: [' 0.701', ' 0.320', ' 0.309']
+12/01/2023 10:13:37: Starting run with config: dropout=0.1, num_epochs=7, learning_rate=0.1
+12/01/2023 10:14:00: Test Loss:  1.48357 | Test acc:  0.610 | Test macro_f1:  0.296 | Test f1 scores of classes: [' 0.754', ' 0.000', ' 0.135']
+12/01/2023 10:14:02: Starting run with config: dropout=0.1, num_epochs=7, learning_rate=0.05
+12/01/2023 10:14:25: Test Loss:  1.67243 | Test acc:  0.534 | Test macro_f1:  0.286 | Test f1 scores of classes: [' 0.719', ' 0.140', ' 0.000']
+12/01/2023 10:14:27: Starting run with config: dropout=0.1, num_epochs=7, learning_rate=0.01
+12/01/2023 10:14:50: Test Loss:  1.11106 | Test acc:  0.426 | Test macro_f1:  0.295 | Test f1 scores of classes: [' 0.586', ' 0.299', ' 0.000']
+12/01/2023 10:14:52: Starting run with config: dropout=0.1, num_epochs=7, learning_rate=0.005
+12/01/2023 10:15:16: Test Loss:  1.04557 | Test acc:  0.603 | Test macro_f1:  0.472 | Test f1 scores of classes: [' 0.740', ' 0.354', ' 0.323']
+12/01/2023 10:15:18: Starting run with config: dropout=0.1, num_epochs=7, learning_rate=0.001
+12/01/2023 10:15:41: Test Loss:  1.05477 | Test acc:  0.458 | Test macro_f1:  0.433 | Test f1 scores of classes: [' 0.555', ' 0.333', ' 0.410']
+12/01/2023 10:15:43: Starting run with config: dropout=0.1, num_epochs=7, learning_rate=0.0005
+12/01/2023 10:16:06: Test Loss:  1.03570 | Test acc:  0.498 | Test macro_f1:  0.457 | Test f1 scores of classes: [' 0.602', ' 0.340', ' 0.429']
+12/01/2023 10:16:08: Starting run with config: dropout=0.1, num_epochs=7, learning_rate=0.0001
+12/01/2023 10:16:32: Test Loss:  1.03869 | Test acc:  0.505 | Test macro_f1:  0.448 | Test f1 scores of classes: [' 0.644', ' 0.358', ' 0.342']
+12/01/2023 10:16:34: Starting run with config: dropout=0.1, num_epochs=10, learning_rate=0.1
+12/01/2023 10:17:07: Test Loss:  1.10843 | Test acc:  0.614 | Test macro_f1:  0.254 | Test f1 scores of classes: [' 0.761', ' 0.000', ' 0.000']
+12/01/2023 10:17:09: Starting run with config: dropout=0.1, num_epochs=10, learning_rate=0.05
+12/01/2023 10:17:42: Test Loss:  1.11579 | Test acc:  0.162 | Test macro_f1:  0.093 | Test f1 scores of classes: [' 0.000', ' 0.280', ' 0.000']
+12/01/2023 10:17:43: Starting run with config: dropout=0.1, num_epochs=10, learning_rate=0.01
+12/01/2023 10:18:16: Test Loss:  1.12830 | Test acc:  0.242 | Test macro_f1:  0.216 | Test f1 scores of classes: [' 0.078', ' 0.173', ' 0.397']
+12/01/2023 10:18:18: Starting run with config: dropout=0.1, num_epochs=10, learning_rate=0.005
+12/01/2023 10:18:51: Test Loss:  1.07690 | Test acc:  0.574 | Test macro_f1:  0.512 | Test f1 scores of classes: [' 0.695', ' 0.416', ' 0.426']
+12/01/2023 10:18:53: Starting run with config: dropout=0.1, num_epochs=10, learning_rate=0.001
+12/01/2023 10:19:26: Test Loss:  1.00899 | Test acc:  0.502 | Test macro_f1:  0.463 | Test f1 scores of classes: [' 0.620', ' 0.346', ' 0.422']
+12/01/2023 10:19:28: Starting run with config: dropout=0.1, num_epochs=10, learning_rate=0.0005
+12/01/2023 10:20:01: Test Loss:  1.13468 | Test acc:  0.567 | Test macro_f1:  0.438 | Test f1 scores of classes: [' 0.726', ' 0.309', ' 0.280']
+12/01/2023 10:20:03: Starting run with config: dropout=0.1, num_epochs=10, learning_rate=0.0001
+12/01/2023 10:20:36: Test Loss:  1.01302 | Test acc:  0.534 | Test macro_f1:  0.477 | Test f1 scores of classes: [' 0.660', ' 0.351', ' 0.420']
+12/01/2023 10:20:38: Starting run with config: dropout=0.2, num_epochs=3, learning_rate=0.1
+12/01/2023 10:20:48: Test Loss:  1.11756 | Test acc:  0.224 | Test macro_f1:  0.122 | Test f1 scores of classes: [' 0.000', ' 0.000', ' 0.366']
+12/01/2023 10:20:50: Starting run with config: dropout=0.2, num_epochs=3, learning_rate=0.05
+12/01/2023 10:21:01: Test Loss:  1.12269 | Test acc:  0.224 | Test macro_f1:  0.122 | Test f1 scores of classes: [' 0.000', ' 0.000', ' 0.366']
+12/01/2023 10:21:03: Starting run with config: dropout=0.2, num_epochs=3, learning_rate=0.01
+12/01/2023 10:21:13: Test Loss:  1.08759 | Test acc:  0.383 | Test macro_f1:  0.329 | Test f1 scores of classes: [' 0.500', ' 0.335', ' 0.152']
+12/01/2023 10:21:15: Starting run with config: dropout=0.2, num_epochs=3, learning_rate=0.005
+12/01/2023 10:21:25: Test Loss:  1.07311 | Test acc:  0.570 | Test macro_f1:  0.422 | Test f1 scores of classes: [' 0.731', ' 0.291', ' 0.244']
+12/01/2023 10:21:27: Starting run with config: dropout=0.2, num_epochs=3, learning_rate=0.001
+12/01/2023 10:21:38: Test Loss:  1.06026 | Test acc:  0.502 | Test macro_f1:  0.406 | Test f1 scores of classes: [' 0.656', ' 0.370', ' 0.190']
+12/01/2023 10:21:40: Starting run with config: dropout=0.2, num_epochs=3, learning_rate=0.0005
+12/01/2023 10:21:50: Test Loss:  1.02876 | Test acc:  0.516 | Test macro_f1:  0.454 | Test f1 scores of classes: [' 0.658', ' 0.318', ' 0.387']
+12/01/2023 10:21:52: Starting run with config: dropout=0.2, num_epochs=3, learning_rate=0.0001
+12/01/2023 10:22:02: Test Loss:  1.05844 | Test acc:  0.516 | Test macro_f1:  0.424 | Test f1 scores of classes: [' 0.673', ' 0.288', ' 0.310']
+12/01/2023 10:22:04: Starting run with config: dropout=0.2, num_epochs=5, learning_rate=0.1
+12/01/2023 10:22:21: Test Loss:  1.11627 | Test acc:  0.224 | Test macro_f1:  0.122 | Test f1 scores of classes: [' 0.000', ' 0.000', ' 0.366']
+12/01/2023 10:22:23: Starting run with config: dropout=0.2, num_epochs=5, learning_rate=0.05
+12/01/2023 10:22:40: Test Loss:  1.10905 | Test acc:  0.610 | Test macro_f1:  0.253 | Test f1 scores of classes: [' 0.758', ' 0.000', ' 0.000']
+12/01/2023 10:22:42: Starting run with config: dropout=0.2, num_epochs=5, learning_rate=0.01
+12/01/2023 10:22:59: Test Loss:  1.06333 | Test acc:  0.534 | Test macro_f1:  0.444 | Test f1 scores of classes: [' 0.663', ' 0.316', ' 0.355']
+12/01/2023 10:23:01: Starting run with config: dropout=0.2, num_epochs=5, learning_rate=0.005
+12/01/2023 10:23:18: Test Loss:  1.07804 | Test acc:  0.455 | Test macro_f1:  0.416 | Test f1 scores of classes: [' 0.556', ' 0.288', ' 0.402']
+12/01/2023 10:23:20: Starting run with config: dropout=0.2, num_epochs=5, learning_rate=0.001
+12/01/2023 10:23:37: Test Loss:  1.06587 | Test acc:  0.560 | Test macro_f1:  0.492 | Test f1 scores of classes: [' 0.699', ' 0.393', ' 0.383']
+12/01/2023 10:23:39: Starting run with config: dropout=0.2, num_epochs=5, learning_rate=0.0005
+12/01/2023 10:23:56: Test Loss:  1.03907 | Test acc:  0.469 | Test macro_f1:  0.429 | Test f1 scores of classes: [' 0.591', ' 0.308', ' 0.387']
+12/01/2023 10:23:58: Starting run with config: dropout=0.2, num_epochs=5, learning_rate=0.0001
+12/01/2023 10:24:15: Test Loss:  1.04835 | Test acc:  0.542 | Test macro_f1:  0.434 | Test f1 scores of classes: [' 0.696', ' 0.344', ' 0.262']
+12/01/2023 10:24:17: Starting run with config: dropout=0.2, num_epochs=7, learning_rate=0.1
+12/01/2023 10:24:40: Test Loss:  1.13138 | Test acc:  0.224 | Test macro_f1:  0.122 | Test f1 scores of classes: [' 0.000', ' 0.000', ' 0.366']
+12/01/2023 10:24:42: Starting run with config: dropout=0.2, num_epochs=7, learning_rate=0.05
+12/01/2023 10:25:05: Test Loss:  1.10882 | Test acc:  0.614 | Test macro_f1:  0.254 | Test f1 scores of classes: [' 0.761', ' 0.000', ' 0.000']
+12/01/2023 10:25:07: Starting run with config: dropout=0.2, num_epochs=7, learning_rate=0.01
+12/01/2023 10:25:31: Test Loss:  1.08275 | Test acc:  0.267 | Test macro_f1:  0.270 | Test f1 scores of classes: [' 0.068', ' 0.331', ' 0.412']
+12/01/2023 10:25:33: Starting run with config: dropout=0.2, num_epochs=7, learning_rate=0.005
+12/01/2023 10:25:56: Test Loss:  1.09611 | Test acc:  0.462 | Test macro_f1:  0.424 | Test f1 scores of classes: [' 0.576', ' 0.357', ' 0.340']
+12/01/2023 10:25:58: Starting run with config: dropout=0.2, num_epochs=7, learning_rate=0.001
+12/01/2023 10:26:21: Test Loss:  1.03766 | Test acc:  0.606 | Test macro_f1:  0.492 | Test f1 scores of classes: [' 0.753', ' 0.440', ' 0.283']
+12/01/2023 10:26:23: Starting run with config: dropout=0.2, num_epochs=7, learning_rate=0.0005
+12/01/2023 10:26:47: Test Loss:  1.02508 | Test acc:  0.484 | Test macro_f1:  0.439 | Test f1 scores of classes: [' 0.614', ' 0.329', ' 0.373']
+12/01/2023 10:26:49: Starting run with config: dropout=0.2, num_epochs=7, learning_rate=0.0001
+12/01/2023 10:27:12: Test Loss:  1.04009 | Test acc:  0.477 | Test macro_f1:  0.436 | Test f1 scores of classes: [' 0.589', ' 0.309', ' 0.410']
+12/01/2023 10:27:14: Starting run with config: dropout=0.2, num_epochs=10, learning_rate=0.1
+12/01/2023 10:27:47: Test Loss:  1.24587 | Test acc:  0.610 | Test macro_f1:  0.253 | Test f1 scores of classes: [' 0.758', ' 0.000', ' 0.000']
+12/01/2023 10:27:49: Starting run with config: dropout=0.2, num_epochs=10, learning_rate=0.05
+12/01/2023 10:28:22: Test Loss:  1.13084 | Test acc:  0.224 | Test macro_f1:  0.122 | Test f1 scores of classes: [' 0.000', ' 0.000', ' 0.366']
+12/01/2023 10:28:24: Starting run with config: dropout=0.2, num_epochs=10, learning_rate=0.01
+12/01/2023 10:28:57: Test Loss:  1.06065 | Test acc:  0.361 | Test macro_f1:  0.362 | Test f1 scores of classes: [' 0.365', ' 0.340', ' 0.381']
+12/01/2023 10:28:59: Starting run with config: dropout=0.2, num_epochs=10, learning_rate=0.005
+12/01/2023 10:29:32: Test Loss:  1.02680 | Test acc:  0.563 | Test macro_f1:  0.446 | Test f1 scores of classes: [' 0.719', ' 0.326', ' 0.293']
+12/01/2023 10:29:34: Starting run with config: dropout=0.2, num_epochs=10, learning_rate=0.001
+12/01/2023 10:30:07: Test Loss:  1.04917 | Test acc:  0.545 | Test macro_f1:  0.481 | Test f1 scores of classes: [' 0.685', ' 0.358', ' 0.400']
+12/01/2023 10:30:09: Starting run with config: dropout=0.2, num_epochs=10, learning_rate=0.0005
+12/01/2023 10:30:42: Test Loss:  1.01227 | Test acc:  0.458 | Test macro_f1:  0.423 | Test f1 scores of classes: [' 0.574', ' 0.350', ' 0.344']
+12/01/2023 10:30:44: Starting run with config: dropout=0.2, num_epochs=10, learning_rate=0.0001
+12/01/2023 10:31:17: Test Loss:  1.02744 | Test acc:  0.505 | Test macro_f1:  0.444 | Test f1 scores of classes: [' 0.642', ' 0.364', ' 0.325']
+12/01/2023 10:31:19: Starting run with config: dropout=0.3, num_epochs=3, learning_rate=0.1
+12/01/2023 10:31:29: Test Loss:  1.43836 | Test acc:  0.592 | Test macro_f1:  0.308 | Test f1 scores of classes: [' 0.749', ' 0.174', ' 0.000']
+12/01/2023 10:31:31: Starting run with config: dropout=0.3, num_epochs=3, learning_rate=0.05
+12/01/2023 10:31:42: Test Loss:  1.12198 | Test acc:  0.614 | Test macro_f1:  0.280 | Test f1 scores of classes: [' 0.758', ' 0.082', ' 0.000']
+12/01/2023 10:31:44: Starting run with config: dropout=0.3, num_epochs=3, learning_rate=0.01
+12/01/2023 10:31:54: Test Loss:  1.09028 | Test acc:  0.592 | Test macro_f1:  0.413 | Test f1 scores of classes: [' 0.739', ' 0.299', ' 0.200']
+12/01/2023 10:31:56: Starting run with config: dropout=0.3, num_epochs=3, learning_rate=0.005
+12/01/2023 10:32:06: Test Loss:  1.25575 | Test acc:  0.588 | Test macro_f1:  0.364 | Test f1 scores of classes: [' 0.748', ' 0.216', ' 0.127']
+12/01/2023 10:32:09: Starting run with config: dropout=0.3, num_epochs=3, learning_rate=0.001
+12/01/2023 10:32:19: Test Loss:  1.01720 | Test acc:  0.585 | Test macro_f1:  0.518 | Test f1 scores of classes: [' 0.719', ' 0.409', ' 0.426']
+12/01/2023 10:32:21: Starting run with config: dropout=0.3, num_epochs=3, learning_rate=0.0005
+12/01/2023 10:32:31: Test Loss:  1.05481 | Test acc:  0.397 | Test macro_f1:  0.387 | Test f1 scores of classes: [' 0.450', ' 0.329', ' 0.381']
+12/01/2023 10:32:33: Starting run with config: dropout=0.3, num_epochs=3, learning_rate=0.0001
+12/01/2023 10:32:44: Test Loss:  1.05135 | Test acc:  0.487 | Test macro_f1:  0.420 | Test f1 scores of classes: [' 0.627', ' 0.342', ' 0.290']
+12/01/2023 10:32:46: Starting run with config: dropout=0.3, num_epochs=5, learning_rate=0.1
+12/01/2023 10:33:03: Test Loss:  1.12221 | Test acc:  0.614 | Test macro_f1:  0.254 | Test f1 scores of classes: [' 0.761', ' 0.000', ' 0.000']
+12/01/2023 10:33:05: Starting run with config: dropout=0.3, num_epochs=5, learning_rate=0.05
+12/01/2023 10:33:22: Test Loss:  1.10755 | Test acc:  0.614 | Test macro_f1:  0.254 | Test f1 scores of classes: [' 0.761', ' 0.000', ' 0.000']
+12/01/2023 10:33:23: Starting run with config: dropout=0.3, num_epochs=5, learning_rate=0.01
+12/01/2023 10:33:40: Test Loss:  1.10756 | Test acc:  0.614 | Test macro_f1:  0.254 | Test f1 scores of classes: [' 0.761', ' 0.000', ' 0.000']
+12/01/2023 10:33:42: Starting run with config: dropout=0.3, num_epochs=5, learning_rate=0.005
+12/01/2023 10:33:59: Test Loss:  1.08543 | Test acc:  0.509 | Test macro_f1:  0.433 | Test f1 scores of classes: [' 0.640', ' 0.412', ' 0.247']
+12/01/2023 10:34:01: Starting run with config: dropout=0.3, num_epochs=5, learning_rate=0.001
+12/01/2023 10:34:18: Test Loss:  1.09480 | Test acc:  0.570 | Test macro_f1:  0.469 | Test f1 scores of classes: [' 0.721', ' 0.333', ' 0.352']
+12/01/2023 10:34:20: Starting run with config: dropout=0.3, num_epochs=5, learning_rate=0.0005
+12/01/2023 10:34:37: Test Loss:  1.01030 | Test acc:  0.491 | Test macro_f1:  0.444 | Test f1 scores of classes: [' 0.615', ' 0.357', ' 0.360']
+12/01/2023 10:34:39: Starting run with config: dropout=0.3, num_epochs=5, learning_rate=0.0001
+12/01/2023 10:34:56: Test Loss:  1.03294 | Test acc:  0.516 | Test macro_f1:  0.460 | Test f1 scores of classes: [' 0.648', ' 0.345', ' 0.386']
+12/01/2023 10:34:58: Starting run with config: dropout=0.3, num_epochs=7, learning_rate=0.1
+12/01/2023 10:35:21: Test Loss:  1.11145 | Test acc:  0.224 | Test macro_f1:  0.122 | Test f1 scores of classes: [' 0.000', ' 0.000', ' 0.366']
+12/01/2023 10:35:23: Starting run with config: dropout=0.3, num_epochs=7, learning_rate=0.05
+12/01/2023 10:35:47: Test Loss:  1.12133 | Test acc:  0.610 | Test macro_f1:  0.253 | Test f1 scores of classes: [' 0.758', ' 0.000', ' 0.000']
+12/01/2023 10:35:49: Starting run with config: dropout=0.3, num_epochs=7, learning_rate=0.01
+12/01/2023 10:36:12: Test Loss:  1.09964 | Test acc:  0.552 | Test macro_f1:  0.310 | Test f1 scores of classes: [' 0.707', ' 0.137', ' 0.085']
+12/01/2023 10:36:14: Starting run with config: dropout=0.3, num_epochs=7, learning_rate=0.005
+12/01/2023 10:36:37: Test Loss:  1.08160 | Test acc:  0.570 | Test macro_f1:  0.416 | Test f1 scores of classes: [' 0.726', ' 0.372', ' 0.150']
+12/01/2023 10:36:39: Starting run with config: dropout=0.3, num_epochs=7, learning_rate=0.001
+12/01/2023 10:37:03: Test Loss:  1.09556 | Test acc:  0.527 | Test macro_f1:  0.434 | Test f1 scores of classes: [' 0.669', ' 0.358', ' 0.275']
+12/01/2023 10:37:05: Starting run with config: dropout=0.3, num_epochs=7, learning_rate=0.0005
+12/01/2023 10:37:28: Test Loss:  1.04837 | Test acc:  0.588 | Test macro_f1:  0.497 | Test f1 scores of classes: [' 0.725', ' 0.370', ' 0.397']
+12/01/2023 10:37:30: Starting run with config: dropout=0.3, num_epochs=7, learning_rate=0.0001
+12/01/2023 10:37:53: Test Loss:  1.03543 | Test acc:  0.520 | Test macro_f1:  0.453 | Test f1 scores of classes: [' 0.656', ' 0.330', ' 0.373']
+12/01/2023 10:37:55: Starting run with config: dropout=0.3, num_epochs=10, learning_rate=0.1
+12/01/2023 10:38:29: Test Loss:  1.12818 | Test acc:  0.162 | Test macro_f1:  0.093 | Test f1 scores of classes: [' 0.000', ' 0.280', ' 0.000']
+12/01/2023 10:38:31: Starting run with config: dropout=0.3, num_epochs=10, learning_rate=0.05
+12/01/2023 10:39:04: Test Loss:  1.12635 | Test acc:  0.162 | Test macro_f1:  0.093 | Test f1 scores of classes: [' 0.000', ' 0.280', ' 0.000']
+12/01/2023 10:39:06: Starting run with config: dropout=0.3, num_epochs=10, learning_rate=0.01
+12/01/2023 10:39:39: Test Loss:  1.08060 | Test acc:  0.383 | Test macro_f1:  0.367 | Test f1 scores of classes: [' 0.449', ' 0.344', ' 0.308']
+12/01/2023 10:39:41: Starting run with config: dropout=0.3, num_epochs=10, learning_rate=0.005
+12/01/2023 10:40:14: Test Loss:  1.02881 | Test acc:  0.502 | Test macro_f1:  0.447 | Test f1 scores of classes: [' 0.630', ' 0.286', ' 0.425']
+12/01/2023 10:40:16: Starting run with config: dropout=0.3, num_epochs=10, learning_rate=0.001
+12/01/2023 10:40:49: Test Loss:  1.08725 | Test acc:  0.585 | Test macro_f1:  0.441 | Test f1 scores of classes: [' 0.751', ' 0.306', ' 0.268']
+12/01/2023 10:40:51: Starting run with config: dropout=0.3, num_epochs=10, learning_rate=0.0005
+12/01/2023 10:41:24: Test Loss:  1.03071 | Test acc:  0.531 | Test macro_f1:  0.462 | Test f1 scores of classes: [' 0.667', ' 0.362', ' 0.357']
+12/01/2023 10:41:25: Starting run with config: dropout=0.3, num_epochs=10, learning_rate=0.0001
+12/01/2023 10:41:58: Test Loss:  1.03782 | Test acc:  0.552 | Test macro_f1:  0.461 | Test f1 scores of classes: [' 0.706', ' 0.319', ' 0.357']
