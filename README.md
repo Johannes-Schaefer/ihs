@@ -1,5 +1,7 @@
 # iHS #
 
+--- NOTE: repo still under construction
+
 iHS (short for illegal hate speech) is a dataset of German Twitter messages annotated for potentially illegal hate speech and mentions of identity terms.
 I am happy to provide the complete data to you, feel free to contact me with a motivated request.
 
