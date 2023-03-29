@@ -16,9 +16,16 @@ This repository provides the anonymized dataset and supplementary material:
 
 # Citation # 
 
-If you use the dataset, please cite the paper ...
+If you use the dataset, please cite the paper Schäfer, J. 2023. Bias Mitigation for Capturing Potentially Illegal Hate Speech. Datenbank Spektrum. https://doi.org/10.1007/s13222-023-00439-0
 
 Bibtex:
 ```text
-...
+@article{schaefer2023bias,
+  title={Bias Mitigation for Capturing Potentially Illegal Hate Speech},
+  author={Sch{\"a}fer, Johannes},
+  journal={Datenbank-Spektrum},
+  pages={1610--1995},
+  doi={10.1007/s13222-023-00439-0},
+  year={2023}
+}
 ```
